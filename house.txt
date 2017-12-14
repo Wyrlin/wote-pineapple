@@ -1,3 +1,4 @@
 Toilet
 Chimney
-
+Livingroom
+Bedroom

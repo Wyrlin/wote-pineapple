@@ -1,3 +1,3 @@
 #!/bin/sh
-echo 'Einar Rasmussen'
+echo 'Einar Rasmussen is awesome!'
 

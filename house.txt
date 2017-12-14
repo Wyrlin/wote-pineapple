@@ -1,4 +1,9 @@
 Toilet
 Chimney
+<<<<<<< HEAD
 Livingroom
 Bedroom
+=======
+Kitchen
+
+>>>>>>> 4595cbc96d5582d191ce99a147ef39ab5b1abf56

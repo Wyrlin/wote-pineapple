@@ -1,4 +1,5 @@
 Toilet
 Chimney
 Kitchen
+Livingroom
 
